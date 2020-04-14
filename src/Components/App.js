@@ -25,7 +25,6 @@ export default class App extends React.Component{
     stateCopy[title]= value;
     console.log(title);
     this.setState({selections: stateCopy});
-    console.log('we good');
   }
 
   render(){
