@@ -5,6 +5,7 @@ import ProductDetail from './ProductDetail.js';
 
 export default class App extends React.Component{
 
+  
   static propType= {
       products: PropTypes.string,
       suggestions: PropTypes.string,
