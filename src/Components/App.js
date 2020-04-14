@@ -30,7 +30,9 @@ export default class App extends React.Component{
   render(){
     return(
       <React.Fragment>
+        <h1>Integrated</h1>
         <ProductDetail comparisons= {this.state.products} suggestions= {this.state.suggestions} selections= {this.state.selections} main_product= {this.state.options} updateSelection= {this.updateSelection}/>
+        
       </React.Fragment>
     );
   }
