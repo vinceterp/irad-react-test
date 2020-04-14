@@ -23,7 +23,7 @@ export default class App extends React.Component{
   updateSelection = (title, value) => {  
     const stateCopy= {...this.state.selections};
     stateCopy[title]= value;
-
+    console.log(title);
     this.setState({selections: stateCopy});
   }
 
