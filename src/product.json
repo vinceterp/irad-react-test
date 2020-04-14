@@ -1,0 +1,35 @@
+{
+    "name": "Programmable Automatic Biopsy Device",
+    "brand": "Achieve",
+	"price": 6250.00,
+	"stock": 23,
+	"media": [
+		{
+			"type": "image",
+			"resource": "https://firebasestorage.googleapis.com/v0/b/test-project-abfe0.appspot.com/o/achieve1.png?alt=media&token=d6907371-a6aa-4988-8c68-b5195dd84e83"
+        },
+		{
+			"type": "image",
+			"resource": "https://firebasestorage.googleapis.com/v0/b/test-project-abfe0.appspot.com/o/achieve3.png?alt=media&token=349cb2cd-e332-46e1-b7c5-7cdcf6a7eb49"
+		},
+        {
+			"type": "image",
+			"resource": "https://firebasestorage.googleapis.com/v0/b/test-project-abfe0.appspot.com/o/achieve2.png?alt=media&token=cbcecb41-d238-44d3-b03c-88d743d9cac3"
+		},
+		{
+			"type": "image",
+			"resource": "https://firebasestorage.googleapis.com/v0/b/test-project-abfe0.appspot.com/o/achieve3.png?alt=media&token=349cb2cd-e332-46e1-b7c5-7cdcf6a7eb49"
+        }
+	],
+	"prescription": true,
+	"configuration": [
+		{
+			"name": "Gauge",
+			"options": ["14G", "16G", "18G", "20G"]
+		},
+		{
+			"name": "Length",
+			"options": ["11cm", "15cm", "20cm"]
+		}
+	]
+}

@@ -1,0 +1,25 @@
+[
+	{
+        "name": "Disposable Syringe",
+		"price": 349.80,
+        "media": [
+            {
+                "type": "image",
+                "resource": "https://firebasestorage.googleapis.com/v0/b/test-project-abfe0.appspot.com/o/syringe.png?alt=media&token=0dca6e62-5fe0-40bc-a814-b392f19bd057"
+            }
+        ],
+        "prescription": true
+	},
+	{
+        "name": "Crown Bone Marrow Biopsy Aspiration Needle",
+        "brand": "Jamshidi",
+		"price": 24000.00,
+        "media": [
+            {
+                "type": "image",
+                "resource": "https://firebasestorage.googleapis.com/v0/b/test-project-abfe0.appspot.com/o/crown-bone-marrow.png?alt=media&token=02c0eea3-a338-4bd7-b886-cc6d88394591"
+            }
+        ],
+        "prescription": true
+	}
+]

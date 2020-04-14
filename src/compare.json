@@ -1,0 +1,38 @@
+[
+	{
+        "name": "Core Programmable Biopsy Needle",
+        "brand": "Aortta",
+        "company": "MedEx Medical Supplies & Disposables",
+        "price": 5426.80,
+        "media": [
+            {
+                "type": "image",
+                "resource": "https://firebasestorage.googleapis.com/v0/b/test-project-abfe0.appspot.com/o/aortta.png?alt=media&token=06e49c59-1554-4053-8d34-1dabbb7ecc94"
+            }
+        ]
+	},
+	{
+		"name": "Programmable Automatic Biopsy Device",
+		"brand": "Achieve",
+        "company": "IRAD Medical Supplies",
+		"price": 6250.00,
+        "media": [
+            {
+                "type": "image",
+                "resource": "https://firebasestorage.googleapis.com/v0/b/test-project-abfe0.appspot.com/o/achieve1.png?alt=media&token=d6907371-a6aa-4988-8c68-b5195dd84e83"
+            }
+        ]
+    },
+    {
+        "name": "Biopsy Needle",
+        "brand": "Medcut",
+        "company": "Amsel Disposables",
+		"price": 7156.20,
+        "media": [
+            {
+                "type": "image",
+                "resource": "https://firebasestorage.googleapis.com/v0/b/test-project-abfe0.appspot.com/o/amsel.png?alt=media&token=9ca53be6-3d11-4297-8582-c5f75e592d5c"
+            }
+        ]
+	}
+]
